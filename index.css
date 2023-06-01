@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-container01 {
+    background-color: #cdcfd1;
+}
+.image01 {
+    width: 560px;
+    height: 280px;
+}
+.input01 {
+    text-align: center;
+}
+.plus {
+    font-size: 40px;
+    font-weight: bold;
+}
+#input01, #input02{
+    width: 120px;
+    background-color: rgb(233, 243, 236);
+    text-align: center;
+    border: 10px solid rgb(169, 232, 207);
+    font-size: 25px;
+    font-weight: bold;
+}
+#input03{
+    width: 200px;
+    background-color: rgb(233, 243, 236);
+    text-align: center;
+    border: 10px solid rgb(169, 232, 207);
+    font-size: 25px;
+    font-weight: bold;
+}
+#results {
+    color: #000;
+    font-size: 25px;
+}
